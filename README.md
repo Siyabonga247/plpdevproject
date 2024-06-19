@@ -4,9 +4,11 @@
 Visit the Windows 11 download page: Windows 11 Download.
 Download the installation media: Follow the instructions to create a bootable USB or download the ISO file.
 Install Windows 11: Use the bootable media to install Windows 11 on your computer by following the on-screen instructions.
+
 2. Install Visual Studio Code
 Visit the Visual Studio Code download page: Visual Studio Code Download.
 Download and install VS Code: Choose the appropriate version for Windows and follow the installation instructions.
+
 3. Set Up Version Control System (Git and GitHub)
 Install Git:
 
@@ -49,10 +51,10 @@ Download and install the latest version of Python by following the installation 
 5. Install Package Managers
 Install pip (comes with Python installation):
 Ensure pip is installed by running:
-sh
-Copy code
+
 python -m ensurepip --upgrade
 6. Configure a Database (MySQL)
+
 Download and install MySQL:
 Visit the MySQL download page: MySQL Installer.
 Download and install MySQL by following the installation instructions.
